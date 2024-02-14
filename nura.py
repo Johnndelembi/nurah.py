@@ -51,7 +51,7 @@ st.download_button(
     file_name=resume_file.name,
     mime="application/octet-stream",
 )
-st.write(":envelope[nuramahmoud@aiesec.net]")
+st.write(":envelope:[nuramahmoud@aiesec.net]")
 
 
 
