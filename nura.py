@@ -103,6 +103,7 @@ st.markdown('''
     ''')
 
 st.write("###")
+st.write("---")
 
 #----------------FOOTER----------------------------------
 st.header("**REFERENCES**")
