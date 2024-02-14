@@ -85,8 +85,8 @@ st.markdown('''
 
 st.write("###")
 
-st.subheader("EDUCATION AND TRAINING")
-st.write(" :red[University of Dar es Salaam], *Dar es Salaam, Tanzania*")
+st.subheader(":green[EDUCATION AND TRAINING]")
+st.write(" :green[University of Dar es Salaam], *Dar es Salaam, Tanzania*")
 st.markdown("Bachelor of Arts in Economics and Statistics")
 st.markdown("Expected in 10/2024")
 st.markdown('''
@@ -94,7 +94,7 @@ st.markdown('''
     - Leadership skills
     ''')
 
-st.write(" :red[Ifunda Girls High School], *Iringa, Tanzania*")
+st.write(" :green[Ifunda Girls High School], *Iringa, Tanzania*")
 st.markdown("Advanced Certificate")
 st.markdown("5/2021")
 st.markdown('''
